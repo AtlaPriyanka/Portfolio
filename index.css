@@ -11,7 +11,7 @@ header{
     padding: 5px;
 }
 .content{
-    max-width: 50%;
+    max-width: 100%;
     margin: 0;
     display: flex;
     justify-content: space-between;
@@ -168,4 +168,5 @@ footer{
     #about, #skills, #projects #contact{
         text-align: center;
     }
+
 }
